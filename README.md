@@ -1,6 +1,6 @@
-# aitodo代码生成器 (aitodo-code)
+# Quasar App (crud-dog)
 
-代码生成器
+crud-dog
 
 ## Install the dependencies
 ```bash
